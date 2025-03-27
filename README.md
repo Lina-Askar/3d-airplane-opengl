@@ -19,8 +19,8 @@ An interactive 3D simulation of an airplane flying through a virtual environment
 - `main.cpp`: Full OpenGL source code
 
 ## How to Run
-1. Rename `Group_4_Code.txt` to `main.cpp`  
-2. Compile with an OpenGL/GLUT-supported compiler (e.g., Visual Studio or Code::Blocks with OpenGL libraries)
+1. Open `main.cpp` in a C++ IDE with OpenGL/GLUT support (e.g., Visual Studio, Code::Blocks)
+2. Compile with appropriate OpenGL libraries
 3. Run the compiled program
 4. Use:
    - `f / b / u / d` keys to control airplane (forward, back, up, down)
