@@ -16,8 +16,7 @@ An interactive 3D simulation of an airplane flying through a virtual environment
 - Lighting & materials
 
 ## Files
-- `Group_4_Code.txt`: Full OpenGL source code (rename to `.cpp`)
-- `Group_4_Report.docx`: Project report with abstract, challenges, solutions, and student contributions
+- `main.cpp`: Full OpenGL source code
 
 ## How to Run
 1. Rename `Group_4_Code.txt` to `main.cpp`  
